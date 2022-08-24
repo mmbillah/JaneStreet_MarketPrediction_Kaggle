@@ -4,4 +4,4 @@ A self-ventured project to apply predictive modeling on the trading decisions to
 
 https://www.kaggle.com/c/jane-street-market-prediction/overview
 
-![alt text](https://github.com/mmbillah/AmazonRecommenderSystems_Spark/blob/main/JaneStreet_Leaderboard.png?raw=true)
+![alt text](https://github.com/mmbillah/JaneStreet_MarketPrediction_Kaggle/blob/main/JaneStreet_Leaderboard.png?raw=true)
